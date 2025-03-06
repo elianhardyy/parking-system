@@ -1,0 +1,14 @@
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\bin\Debug\net8.0\ParkingSystem3.exe
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\bin\Debug\net8.0\ParkingSystem3.deps.json
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\bin\Debug\net8.0\ParkingSystem3.runtimeconfig.json
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\bin\Debug\net8.0\ParkingSystem3.dll
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\bin\Debug\net8.0\ParkingSystem3.pdb
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\obj\Debug\net8.0\ParkingSystem3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\obj\Debug\net8.0\ParkingSystem3.AssemblyInfoInputs.cache
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\obj\Debug\net8.0\ParkingSystem3.AssemblyInfo.cs
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\obj\Debug\net8.0\ParkingSystem3.csproj.CoreCompileInputs.cache
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\obj\Debug\net8.0\ParkingSystem3.dll
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\obj\Debug\net8.0\refint\ParkingSystem3.dll
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\obj\Debug\net8.0\ParkingSystem3.pdb
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\obj\Debug\net8.0\ParkingSystem3.genruntimeconfig.cache
+D:\Elian\IT\Pemrograman\dotnet\ParkingSystem3\obj\Debug\net8.0\ref\ParkingSystem3.dll
